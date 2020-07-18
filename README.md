@@ -16,7 +16,7 @@
 </table>
 
 ## ⚡ Projects you should check out
-| **Project name** | **Language** | **GitHub Repo Link** |
+|  **Language**  |**Project name** | **GitHub Repo Link** |
 |:---:|:------------:|:----:|
 | *ReactJS* | **React features**<br>**Company Owenership Grapher** | [/reactShowCase](https://github.com/bunatl/reactShowCase)<br>[/CompanyOwenershipGrapher](https://github.com/bunatl/CompanyOwenershipGrapher) |
 | *Vanilla JS* |**Web Scrapenator**| [/WebScrapenator](https://github.com/bunatl/WebScrapenator) |
