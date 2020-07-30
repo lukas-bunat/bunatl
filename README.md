@@ -17,18 +17,19 @@
 
 ## ⚡ Projects you should check out
 |  **Language**  |**Project name** | **GitHub Repo Link** |
-|:---:|:------------:|:----:|
-| *ReactJS* | **React features**<br>**Company Owenership Grapher** | [/reactShowCase](https://github.com/bunatl/reactShowCase)<br>[/CompanyOwenershipGrapher](https://github.com/bunatl/CompanyOwenershipGrapher) |
-| *Vanilla JS* |**Web Scrapenator**| [/WebScrapenator](https://github.com/bunatl/WebScrapenator) |
+|:-------:|:------------:|:---------:|
+| *ReactJS* | **Exchange Rates** | [/CurrencyConverter](https://github.com/bunatl/CurrencyConverter) |
+| *Stack* |**Web Scrapenator**<br>**Company Owenership Grapher**| [/WebScrapenator](https://github.com/bunatl/WebScrapenator)<br>[/CompanyOwenershipGrapher](https://github.com/bunatl/CompanyOwenershipGrapher) |
 | *C++* | **C++ Tutorial** | [/cppTutorial](https://github.com/bunatl/cppTutorial) |
 | *C#* | **Mouse Recorder**<br>/w random wait times |  [/MouseRecorder](https://github.com/bunatl/MouseRecorder) |
 | *JAVA* | **JAVA tutorial<br>Stock Market Logger** | [/javaTutorial](https://github.com/bunatl/javaTutorial)<br>[/StockMarketLogger](https://github.com/bunatl/StockMarketLogger) |
 
 ## 🕓 At the moment
 |🔭 **Working on**|🌱 **Learning**|📝 **To do list**|
-|:------------:|:----:|:------:|
-| MERN Webapps | C# Lang | Master thesis |
-| ReactJS | Data Mining &<br> Bussiness Intelligence | Graduate |
+|:------------:|:---------:|:---------:|
+| MERN Webapps | TypeScript | Master thesis |
+| ReactJS | Sass | Graduate |
+|  | Vue | Tableu dashboard |
 
 ## Have a good one! 👐
 ![Keep calm and code gif 🔥](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif "Keep calm and code 🔥")
