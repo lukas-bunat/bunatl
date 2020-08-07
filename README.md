@@ -18,18 +18,25 @@
 ## ⚡ Projects you should check out
 |  **Language**  |**Project name** | **GitHub Repo Link** |
 |:-------:|:------------:|:---------:|
-| *ReactJS* | **Exchange Rates** | [/CurrencyConverter](https://github.com/bunatl/CurrencyConverter) |
+| *ReactJS* | **Exchange Rates** | [/CurrencyConverter][currencyConverterLink] |
 | *Stack* |**Web Scrapenator**<br>**Company Owenership Grapher**| [/WebScrapenator](https://github.com/bunatl/WebScrapenator)<br>[/CompanyOwenershipGrapher](https://github.com/bunatl/CompanyOwenershipGrapher) |
 | *C++* | **C++ Tutorial** | [/cppTutorial](https://github.com/bunatl/cppTutorial) |
 | *C#* | **Mouse Recorder**<br>/w random wait times |  [/MouseRecorder](https://github.com/bunatl/MouseRecorder) |
 | *JAVA* | **JAVA tutorial<br>Stock Market Logger** | [/javaTutorial](https://github.com/bunatl/javaTutorial)<br>[/StockMarketLogger](https://github.com/bunatl/StockMarketLogger) |
 
+[currencyConverterLink]: https://github.com/bunatl/CurrencyConverter
+
+
 ## 🕓 At the moment
 |🔭 **Working on**|🌱 **Learning**|📝 **To do list**|
 |:------------:|:---------:|:---------:|
-| MERN Webapps | TypeScript | Master thesis |
-| ReactJS | Sass | Graduate |
-|  | Vue | Tableu dashboard |
+| MERN Webapps | TypeScript | Contribute more |
+| ReactJS | Sass | Be active on StackOwerflow |
+| Personal Website | Vue | Tableu dashboard |
+
+## 📊 Stats
+[![My github stats](https://github-readme-stats.vercel.app/api?username=bunatl&hide=prs&count_private=true&show_icons=true&theme=gruvbox "What are your stats? 👀")](https://github.com/bunatl)
+
 
 ## Have a good one! 👐
 ![Keep calm and code gif 🔥](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif "Keep calm and code 🔥")
