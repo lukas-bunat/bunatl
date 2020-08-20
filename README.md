@@ -4,21 +4,21 @@
  <tr>
     <td align="middle">👨‍💻 Software & Full-Stack Developer and Data Engineer</b></td>
     <td rowspan="3" >
-    <img src="https://avatars3.githubusercontent.com/u/49941100?s=460&u=92bc44f2016425366f501c5f83a7ca886cc950cb&v=4" alt="avatar" width="200"/>
+    <img src="profilePicture.jpg" alt="avatar" width="200"/>
 </td>
  </tr>
  <tr>
     <td align="middle">💻 Coding your ideas into professional apps with ❤️!</td>
  </tr>
  <tr>
-    <td align="middle">Get more info about me on <a href="www.bunat.cz">www.bunat.cz</a>. 🌍</td>
+    <td align="middle">Get more info about me on <a href="https://bunat.cz">www.bunat.cz</a> 🌍</td>
  </tr>
 </table>
 
 ## ⚡ Projects you should check out
 |  **Language**  |**Project name** | **GitHub Repo Link** |
 |:-------:|:------------:|:---------:|
-| *ReactJS* | **Exchange Rates** | [/CurrencyConverter][currencyConverterLink] |
+| *ReactJS* | **Exchange Rates** <br> **Tweet bot wall** | [/CurrencyConverter][currencyConverterLink]<br>[/reactjs-tweet-bot](https://github.com/bunatl/reactjs-tweet-bot) |
 | *Stack* |**Web Scrapenator**<br>**Company Owenership Grapher**| [/WebScrapenator](https://github.com/bunatl/WebScrapenator)<br>[/CompanyOwenershipGrapher](https://github.com/bunatl/CompanyOwenershipGrapher) |
 | *C++* | **C++ Tutorial** | [/cppTutorial](https://github.com/bunatl/cppTutorial) |
 | *C#* | **Mouse Recorder**<br>/w random wait times |  [/MouseRecorder](https://github.com/bunatl/MouseRecorder) |
@@ -28,11 +28,10 @@
 
 
 ## 🕓 At the moment
-|🔭 **Working on**|🌱 **Learning**|📝 **To do list**|
+|🔧 **Working on**|🌱 **Learning**|📝 **To do list**|
 |:------------:|:---------:|:---------:|
-| MERN Webapps | TypeScript | Contribute more |
-| ReactJS | Sass | Be active on StackOwerflow |
-| Personal Website | Vue | Tableu dashboard |
+| Stack Webapps | Vue | Contribute more on <br> Github and StackOweflow |
+| Personal website content |  | Tableu dashboard |
 
 ## 📊 Stats
 [![My github stats](https://github-readme-stats.vercel.app/api?username=bunatl&hide=prs&count_private=true&show_icons=true&theme=gruvbox "What are your stats? 👀")](https://github.com/bunatl)
