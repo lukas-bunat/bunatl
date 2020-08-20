@@ -4,7 +4,7 @@
  <tr>
     <td align="middle">👨‍💻 Software & Full-Stack Developer and Data Engineer</b></td>
     <td rowspan="3" >
-    <img src="profilePicture.jpg" alt="avatar" width="200"/>
+    <img src="./profilePicture.jpg" alt="avatar" width="200"/>
 </td>
  </tr>
  <tr>
