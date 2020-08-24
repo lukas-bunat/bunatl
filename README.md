@@ -34,8 +34,8 @@
 ## 🕓 At the moment
 |🔧 **Working on**|🌱 **Learning**|📝 **To do list**|
 |:------------:|:---------:|:---------:|
-| Stack Webapps | Vue | Contribute more on <br> Github and StackOweflow |
-| Personal website content |  | Tableu dashboard |
+| Stack Webapps | React Native | Contribute more on <br> Github and StackOweflow |
+| Personal website content | Vue | Tableu dashboard |
 
 ## 📊 Stats
 [![My github stats](https://github-readme-stats.vercel.app/api?username=bunatl&hide=prs&count_private=true&show_icons=true&theme=gruvbox "What are your stats? 👀")](https://github.com/bunatl)
