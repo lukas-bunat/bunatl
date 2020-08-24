@@ -16,16 +16,20 @@
 </table>
 
 ## ⚡ Projects you should check out
+#### On Github
 |  **Language**  |**Project name** | **GitHub Repo Link** |
 |:-------:|:------------:|:---------:|
-| *ReactJS* | **Exchange Rates** <br> **Tweet bot wall** | [/CurrencyConverter][currencyConverterLink]<br>[/reactjs-tweet-bot](https://github.com/bunatl/reactjs-tweet-bot) |
+| *ReactJS* | **Exchange Rates** <br> **Tweet bot wall** <br> **Random user generator**| [/CurrencyConverter][currencyConverterLink]<br>[/reactjs-tweet-bot](https://github.com/bunatl/reactjs-tweet-bot) <br> [/user-generator](https://github.com/bunatl/user-generator) |
 | *Stack* |**Web Scrapenator**<br>**Company Owenership Grapher**| [/WebScrapenator](https://github.com/bunatl/WebScrapenator)<br>[/CompanyOwenershipGrapher](https://github.com/bunatl/CompanyOwenershipGrapher) |
 | *C++* | **C++ Tutorial** | [/cppTutorial](https://github.com/bunatl/cppTutorial) |
 | *C#* | **Mouse Recorder**<br>/w random wait times |  [/MouseRecorder](https://github.com/bunatl/MouseRecorder) |
 | *JAVA* | **JAVA tutorial<br>Stock Market Logger** | [/javaTutorial](https://github.com/bunatl/javaTutorial)<br>[/StockMarketLogger](https://github.com/bunatl/StockMarketLogger) |
 
 [currencyConverterLink]: https://github.com/bunatl/CurrencyConverter
-
+#### On npm
+|**Package name** | **npm link** |
+|:---:|:---:|
+|All img resizer tool|[all-images-resizer-tool](https://www.npmjs.com/package/all-images-resizer-tool)|
 
 ## 🕓 At the moment
 |🔧 **Working on**|🌱 **Learning**|📝 **To do list**|
