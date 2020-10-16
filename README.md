@@ -15,34 +15,62 @@
  </tr>
 </table>
 
-## ⚡ My work and projects you should check out
-#### On Github
-| **Primary Language** | **Tech Stack**   |**Project name** | **GitHub Repo Link** |
-|:---------------------:|:-----------------:|:------------------:|:--------------:|
-| JavaScript <br> JavaScript <br> TypeScript | *ReactJS* | **Exchange Rates** <br> **Tweet bot wall** <br> **Random user generator**| [/CurrencyConverter][currencyConverterLink]<br>[/reactjs-tweet-bot](https://github.com/bunatl/reactjs-tweet-bot) <br> [/user-generator](https://github.com/bunatl/user-generator) |
-| TypeScript <br> JS, node, EJS <br> JS, node, mongoDB | *MERN* | **Přehled platů**<br>**Web Scrapenator**<br>**Company Owenership Grapher**| [/prehled-platu](https://github.com/bunatl/prehled-platu)<br>[/WebScrapenator](https://github.com/bunatl/WebScrapenator)<br>[/CompanyOwenershipGrapher](https://github.com/bunatl/CompanyOwenershipGrapher) |
-| *C++* | | **C++ Tutorial** | [/cppTutorial](https://github.com/bunatl/cppTutorial) |
-| *C#* | | **Mouse Recorder**<br>/w random wait times |  [/MouseRecorder](https://github.com/bunatl/MouseRecorder) |
-| *JAVA* | MVC, Tomcat| **JAVA tutorial<br>Stock Market Logger** | [/javaTutorial](https://github.com/bunatl/javaTutorial)<br>[/StockMarketLogger](https://github.com/bunatl/StockMarketLogger) |
+## ⚡ You should check out these:
 
-[currencyConverterLink]: https://github.com/bunatl/CurrencyConverter
-#### On npm
-|**Package name** | **Language** |**npm link** |
-|:---:|:---:|:---:|
-|Input autocomplete suggestions for ReactJS|_TypeScript_|[input-autocomplete-suggestions-reactjs](https://www.npmjs.com/package/input-autocomplete-suggestions-reactjs)|
-|All img resizer tool|_JavaScript_|[all-images-resizer-tool](https://www.npmjs.com/package/all-images-resizer-tool)|
+#### Personal projects
+
+| Project name | Language | Tech<br>(stack) | Live<br>demo | Code base | Finished |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| **Přehled platů** | *TypeScript* | MERN | ❌ | [/prehled-platu][pp1b] | ❌ |
+| **Company ownership<br>grapher** | *JavaScript* | MERN | ❌ | [/CompanyOwenershipGrapher][pp2b] | ❌ |
+| **Personal website** | *JavaScript* | ReactJS | [www][pp3a] | [/public-website][pp3b] | ✔ |
+
+[pp1b]: https://github.com/bunatl/prehled-platu
+[pp2b]: https://github.com/bunatl/CompanyOwenershipGrapher
+[pp3a]: https://bunat.cz/
+[pp3b]: https://github.com/bunatl/public-website
+
+#### Single page applications (SPAs)
+
+| Project name | Language | Tech<br>(stack) | Live<br>demo | Code base | Finished |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| **Currency converter** | *JavaScript* | ReactJS | [www][spa1a] | [/CurrencyConverter][spa1b] | ✔ |
+| **Tweet bot wall** | *JavaScript* | MERN | [www][spa2a] | [/tweet-bot-wall][spa2b] | ✔ |
+| **Web scrapenator** | *JavaScript* | EJS | [www][spa3a] | [/WebScrapenator][spa3b] | ✔ |
+| **User generarator** | *TypeScript* | ReactJS | [www][spa4a] | [/user-generator][spa4b] | ✔ |
+
+[spa1a]: https://currency.techis.fun/
+[spa1b]: https://github.com/bunatl/CurrencyConverter
+[spa2a]: https://github.com/bunatl/CurrencyConverter
+[spa2b]: https://github.com/bunatl/tweet-bot-wall
+[spa3a]: https://scraper.techis.fun/
+[spa3b]: https://github.com/bunatl/tweet-bot-wall
+[spa4a]: https://user.techis.fun/
+[spa4b]: https://github.com/bunatl/user-generator
+
+#### ReactJS 101
+
+| Project name | Language | Tech<br>(stack) | Live<br>demo | Code base | Finished |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| **Redux vs<br>useContent+useReducer** | *TypeScript* | ReactJS | [www][rb1a] | [/reactjs-data-and-state-managment][rb1b] | ✔ |
+| **GraphQL vs fetch** | *JavaScript* | ReactJS<br>GraphQL | ❌ | [/reactjs-data-and-state-managment][rb2b] | ❌ |
+
+[rb1a]: https://react-states.techis.fun/
+[rb1b]: https://github.com/bunatl/reactjs-data-and-state-managment
+[rb2b]: https://github.com/bunatl/data-fetching-managment
+
 
 ## 🕓 At the moment
 |🔧 **Working on**|🌱 **Learning**|📝 **To do list**|
 |:----------------:|:-------------:|:----------------:|
-| Stack Webapps | React Native | Contribute more on <br> Github and StackOweflow |
+| Refactoring projects | React Native | Contribute more on <br> Github and StackOweflow |
 | Personal website content | Electron | Build own projects and content |
 
 ## 📊 Stats
 [![My github stats](https://github-readme-stats.vercel.app/api?username=bunatl&hide=prs&count_private=true&show_icons=true&theme=gruvbox "What are your stats? 👀")](https://github.com/bunatl)
 
 
-## Have a good one! 👐
+## 🤗 Have a good one! 🤙
 ![Keep calm and code gif 🔥](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif "Keep calm and code 🔥")
 
 <!-- ✔️,🔘 -->
