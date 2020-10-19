@@ -4,7 +4,7 @@
  <tr>
     <td align="middle"><b>👨‍💻 Full-Stack & Software Developer and Data Engineer</b></td>
     <td rowspan="3" >
-    <img src="https://raw.githubusercontent.com/bunatl/bunatl/master/profilePicture.jpg" alt="avatar" width="200"/>
+    <img src="./me.jpg" alt="avatar" width="200"/>
 </td>
  </tr>
  <tr>
@@ -39,13 +39,13 @@
 | **Web scrapenator** | *JavaScript* | EJS | [www][spa3a] | [/WebScrapenator][spa3b] | ✔ |
 | **User generarator** | *TypeScript* | ReactJS | [www][spa4a] | [/user-generator][spa4b] | ✔ |
 
-[spa1a]: https://currency.techis.fun/
-[spa1b]: https://github.com/bunatl/CurrencyConverter
-[spa2a]: https://github.com/bunatl/CurrencyConverter
+[spa1a]: https://currency-converter.techis.fun/
+[spa1b]: https://github.com/bunatl/CurrencyConverter/
+[spa2a]: https://tweet-bot-wall.techis.fun/
 [spa2b]: https://github.com/bunatl/tweet-bot-wall
-[spa3a]: https://scraper.techis.fun/
+[spa3a]: https://web-scraper.techis.fun/
 [spa3b]: https://github.com/bunatl/tweet-bot-wall
-[spa4a]: https://user.techis.fun/
+[spa4a]: https://user-generator.techis.fun/
 [spa4b]: https://github.com/bunatl/user-generator
 
 #### ReactJS 101
@@ -56,8 +56,8 @@
 | **GraphQL vs fetch** | *JavaScript* | ReactJS<br>GraphQL | ❌ | [/reactjs-data-and-state-managment][rb2b] | ❌ |
 
 [rb1a]: https://react-states.techis.fun/
-[rb1b]: https://github.com/bunatl/reactjs-data-and-state-managment
-[rb2b]: https://github.com/bunatl/data-fetching-managment
+[rb1b]: https://github.com/bunatl/reactjs-data-and-state-managment/
+[rb2b]: https://github.com/bunatl/data-fetching-managment/
 
 
 ## 🕓 At the moment
@@ -68,6 +68,9 @@
 
 ## 📊 Stats
 [![My github stats](https://github-readme-stats.vercel.app/api?username=bunatl&hide=prs&count_private=true&show_icons=true&theme=gruvbox "What are your stats? 👀")](https://github.com/bunatl)
+
+<p><img style="margin-top:1em; margin-bottom:2em;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunatl&layout=compact&langs_count=4" alt="bunatl" /></br></br></p>
+
 
 
 ## 🤗 Have a good one! 🤙
