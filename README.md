@@ -41,7 +41,7 @@
 
 [spa1a]: https://currency-converter.techis.fun/
 [spa1b]: https://github.com/bunatl/CurrencyConverter/
-[spa2a]: https://tweet-bot-wall.techis.fun/
+[spa2a]: https://tweet-bot.techis.fun/
 [spa2b]: https://github.com/bunatl/tweet-bot-wall
 [spa3b]: https://github.com/bunatl//WebScrapenator
 [spa4a]: https://user-generator.techis.fun/
