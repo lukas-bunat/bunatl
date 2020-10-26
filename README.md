@@ -52,7 +52,7 @@
 | Project name | Language | Tech<br>(stack) | Live<br>demo | Code base | Finished |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | **Redux vs<br>useContent+useReducer** | *TypeScript* | ReactJS | [www][rb1a] | [/reactjs-data-and-state-managment][rb1b] | ✔ |
-| **GraphQL vs fetch** | *JavaScript* | ReactJS<br>GraphQL | www[rb2a] | [/reactjs-data-and-state-managment][rb2b] | ✔ |
+| **GraphQL vs fetch** | *JavaScript* | ReactJS<br>GraphQL | [www][rb2a] | [/reactjs-data-and-state-managment][rb2b] | ✔ |
 
 [rb1a]: https://react-states.techis.fun/
 [rb1b]: https://github.com/bunatl/reactjs-data-and-state-managment/
