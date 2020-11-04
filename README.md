@@ -38,6 +38,7 @@
 | **Tweet bot wall** | *JavaScript* | MERN | [www][spa2a] | [/tweet-bot-wall][spa2b] | ✔ |
 | **Web scrapenator** | *JavaScript* | EJS | ❌ | [/WebScrapenator][spa3b] | ✔ |
 | **User generarator** | *TypeScript* | ReactJS | [www][spa4a] | [/user-generator][spa4b] | ✔ |
+| **STFU and click** | *TypeScript* | MERN | ❌ | [/stfuAndClick][spa5b] | ✔ |
 
 [spa1a]: https://currency-converter.techis.fun/
 [spa1b]: https://github.com/bunatl/CurrencyConverter/
@@ -46,6 +47,7 @@
 [spa3b]: https://github.com/bunatl//WebScrapenator
 [spa4a]: https://user-generator.techis.fun/
 [spa4b]: https://github.com/bunatl/user-generator
+[spa5b]: https://github.com/bunatl/stfuAndClick
 
 #### ReactJS 101
 
