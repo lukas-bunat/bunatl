@@ -22,7 +22,7 @@
 | Project name | Language | Tech<br>(stack) | Live<br>demo | Code base | Finished |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | **Přehled platů** | *TypeScript* | MERN | ❌ | [/prehled-platu][pp1b] | ❌ |
-| **Company ownership<br>grapher** | *JavaScript* | MERN | ❌ | [/company-structure-graph-generator][pp2b] | ❌ |
+| **Company structure<br>graph generator** | *JavaScript* | MERN | ❌ | [/company-structure<br>graph-generator][pp2b] | ❌ |
 | **Personal website** | *JavaScript* | ReactJS | [www][pp3a] | [/public-website][pp3b] | ✔ |
 
 [pp1b]: https://github.com/bunatl/prehled-platu
