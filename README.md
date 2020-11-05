@@ -22,7 +22,7 @@
 | Project name | Language | Tech<br>(stack) | Live<br>demo | Code base | Finished |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | **Přehled platů** | *TypeScript* | MERN | ❌ | [/prehled-platu][pp1b] | ❌ |
-| **Company ownership<br>grapher** | *JavaScript* | MERN | ❌ | [/CompanyOwenershipGrapher][pp2b] | ❌ |
+| **Company ownership<br>grapher** | *JavaScript* | MERN | ❌ | [/company-structure-graph-generator][pp2b] | ❌ |
 | **Personal website** | *JavaScript* | ReactJS | [www][pp3a] | [/public-website][pp3b] | ✔ |
 
 [pp1b]: https://github.com/bunatl/prehled-platu
@@ -34,20 +34,20 @@
 
 | Project name | Language | Tech<br>(stack) | Live<br>demo | Code base | Finished |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| **Currency converter** | *JavaScript* | ReactJS | [www][spa1a] | [/CurrencyConverter][spa1b] | ✔ |
+| **Currency converter** | *JavaScript* | ReactJS | [www][spa1a] | [/currency-converter][spa1b] | ✔ |
 | **Tweet bot wall** | *JavaScript* | MERN | [www][spa2a] | [/tweet-bot-wall][spa2b] | ✔ |
-| **Web scrapenator** | *JavaScript* | EJS | ❌ | [/WebScrapenator][spa3b] | ✔ |
+| **Web scrapenator** | *JavaScript* | EJS | ❌ | [/web-scrapenator][spa3b] | ✔ |
 | **User generarator** | *TypeScript* | ReactJS | [www][spa4a] | [/user-generator][spa4b] | ✔ |
-| **STFU and click** | *TypeScript* | MERN | ❌ | [/stfuAndClick][spa5b] | ✔ |
+| **STFU and click** | *TypeScript* | MERN | ❌ | [/stfu-and-click][spa5b] | ✔ |
 
 [spa1a]: https://currency-converter.techis.fun/
-[spa1b]: https://github.com/bunatl/CurrencyConverter/
+[spa1b]: https://github.com/bunatl/currency-converter/
 [spa2a]: https://tweet-bot.techis.fun/
 [spa2b]: https://github.com/bunatl/tweet-bot-wall
-[spa3b]: https://github.com/bunatl//WebScrapenator
+[spa3b]: https://github.com/bunatl/web-scrapenator
 [spa4a]: https://user-generator.techis.fun/
 [spa4b]: https://github.com/bunatl/user-generator
-[spa5b]: https://github.com/bunatl/stfuAndClick
+[spa5b]: https://github.com/bunatl/stfu-and-click
 
 #### ReactJS 101
 
