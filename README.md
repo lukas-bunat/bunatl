@@ -3,7 +3,7 @@
 <table>
  <tr>
     <td align="middle"><b>👨‍💻 Full-Stack & Software Developer and Data Engineer</b></td>
-    <td rowspan="3" >
+    <td rowspan="3" align="middle">
     <img src="./profilePicture.jpg" alt="avatar" width="200"/>
 </td>
  </tr>
@@ -12,6 +12,26 @@
  </tr>
  <tr>
     <td align="middle"><i>Get more info about me on <a href="https://bunat.cz">www.bunat.cz</a> 🌍</i></td>
+ </tr>
+ <tr>
+  <td colspan="2">
+   <img src="" alt="javascript" width="32" height="32"></img>
+   <img src="" alt="typescript" width="32" height="32"></img>
+   <img src="" alt="C++" width="32" height="32"></img>
+   <img src="" alt="C" width="32" height="32"></img>
+   <img src="" alt="ReactJS" width="32" height="32"></img>
+   <img src="" alt="npm" width="32" height="32"></img>
+   <img src="" alt="nodeJS" width="32" height="32"></img>
+   <img src="" alt="express" width="32" height="32"></img>
+   <img src="" alt="MongoDB" width="32" height="32"></img>
+   <img src="" alt="javascript" width="32" height="32"></img>
+   <img src="" alt="CSS" width="32" height="32"></img>
+   <img src="" alt="SASS" width="32" height="32"></img>
+   <img src="" alt="graphQL" width="32" height="32"></img>
+   <img src="" alt="Redux" width="32" height="32"></img>
+   <img src="" alt="SCSS" width="32" height="32"></img>
+   <img src="" alt="HTML" width="32" height="32"></img>
+  </td>
  </tr>
 </table>
 
