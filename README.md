@@ -15,22 +15,24 @@
  </tr>
  <tr>
   <td colspan="2">
-   <img src="" alt="javascript" width="32" height="32"></img>
-   <img src="" alt="typescript" width="32" height="32"></img>
-   <img src="" alt="C++" width="32" height="32"></img>
+   <img src="https://raw.githubusercontent.com/Workshape/tech-icons/72fd0e4dc0320a84dc489d9dd8f63338926098e0/icons/javascript.svg" alt="javascript" width="32" height="32"></img>
+   <img src="https://raw.githubusercontent.com/Workshape/tech-icons/72fd0e4dc0320a84dc489d9dd8f63338926098e0/icons/typescript.svg" alt="typescript" width="32" height="32"></img>
+   <img src="https://raw.githubusercontent.com/Workshape/tech-icons/72fd0e4dc0320a84dc489d9dd8f63338926098e0/icons/cplusplus.svg" alt="C++" width="32" height="32"></img>
    <img src="" alt="C" width="32" height="32"></img>
-   <img src="" alt="ReactJS" width="32" height="32"></img>
+   <img src="https://raw.githubusercontent.com/Workshape/tech-icons/72fd0e4dc0320a84dc489d9dd8f63338926098e0/icons/react.svg" alt="ReactJS" width="32" height="32"></img>
    <img src="" alt="npm" width="32" height="32"></img>
-   <img src="" alt="nodeJS" width="32" height="32"></img>
-   <img src="" alt="express" width="32" height="32"></img>
+   <img src="https://raw.githubusercontent.com/Workshape/tech-icons/72fd0e4dc0320a84dc489d9dd8f63338926098e0/icons/nodejs.svg" alt="nodeJS" width="32" height="32"></img>
+   <img src="https://raw.githubusercontent.com/Workshape/tech-icons/72fd0e4dc0320a84dc489d9dd8f63338926098e0/icons/expressjs.svg" alt="express" width="32" height="32"></img>
    <img src="" alt="MongoDB" width="32" height="32"></img>
    <img src="" alt="javascript" width="32" height="32"></img>
    <img src="" alt="CSS" width="32" height="32"></img>
-   <img src="" alt="SASS" width="32" height="32"></img>
+   <img src="https://raw.githubusercontent.com/Workshape/tech-icons/72fd0e4dc0320a84dc489d9dd8f63338926098e0/icons/sass.svg" alt="SASS" width="32" height="32"></img>
    <img src="" alt="graphQL" width="32" height="32"></img>
    <img src="" alt="Redux" width="32" height="32"></img>
    <img src="" alt="SCSS" width="32" height="32"></img>
    <img src="" alt="HTML" width="32" height="32"></img>
+   <img src="https://raw.githubusercontent.com/Workshape/tech-icons/72fd0e4dc0320a84dc489d9dd8f63338926098e0/icons/git.svg" alt="GIT" width="32" height="32"></img>
+   <img src="https://raw.githubusercontent.com/Workshape/tech-icons/72fd0e4dc0320a84dc489d9dd8f63338926098e0/icons/java.svg" alt="JAVA" width="32" height="32"></img>
   </td>
  </tr>
 </table>
