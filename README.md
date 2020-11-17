@@ -18,21 +18,20 @@
    <img src="https://raw.githubusercontent.com/Workshape/tech-icons/72fd0e4dc0320a84dc489d9dd8f63338926098e0/icons/javascript.svg" alt="javascript" width="32" height="32"></img>
    <img src="https://raw.githubusercontent.com/Workshape/tech-icons/72fd0e4dc0320a84dc489d9dd8f63338926098e0/icons/typescript.svg" alt="typescript" width="32" height="32"></img>
    <img src="https://raw.githubusercontent.com/Workshape/tech-icons/72fd0e4dc0320a84dc489d9dd8f63338926098e0/icons/cplusplus.svg" alt="C++" width="32" height="32"></img>
-   <img src="" alt="C" width="32" height="32"></img>
+   <img src="https://cdn3.iconfinder.com/data/icons/lexter-flat-colorfull-file-formats/56/c-256.png" alt="C" width="32" height="32"></img>
    <img src="https://raw.githubusercontent.com/Workshape/tech-icons/72fd0e4dc0320a84dc489d9dd8f63338926098e0/icons/react.svg" alt="ReactJS" width="32" height="32"></img>
-   <img src="" alt="npm" width="32" height="32"></img>
+   <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/npm-256.png" alt="npm" width="32" height="32"></img>
    <img src="https://raw.githubusercontent.com/Workshape/tech-icons/72fd0e4dc0320a84dc489d9dd8f63338926098e0/icons/nodejs.svg" alt="nodeJS" width="32" height="32"></img>
    <img src="https://raw.githubusercontent.com/Workshape/tech-icons/72fd0e4dc0320a84dc489d9dd8f63338926098e0/icons/expressjs.svg" alt="express" width="32" height="32"></img>
-   <img src="" alt="MongoDB" width="32" height="32"></img>
-   <img src="" alt="javascript" width="32" height="32"></img>
-   <img src="" alt="CSS" width="32" height="32"></img>
-   <img src="https://raw.githubusercontent.com/Workshape/tech-icons/72fd0e4dc0320a84dc489d9dd8f63338926098e0/icons/sass.svg" alt="SASS" width="32" height="32"></img>
-   <img src="" alt="graphQL" width="32" height="32"></img>
-   <img src="" alt="Redux" width="32" height="32"></img>
-   <img src="" alt="SCSS" width="32" height="32"></img>
-   <img src="" alt="HTML" width="32" height="32"></img>
-   <img src="https://raw.githubusercontent.com/Workshape/tech-icons/72fd0e4dc0320a84dc489d9dd8f63338926098e0/icons/git.svg" alt="GIT" width="32" height="32"></img>
-   <img src="https://raw.githubusercontent.com/Workshape/tech-icons/72fd0e4dc0320a84dc489d9dd8f63338926098e0/icons/java.svg" alt="JAVA" width="32" height="32"></img>
+   <img src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-256.png" alt="MongoDB" width="32" height="32"></img>
+   <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png" alt="javascript" width="32" height="32"></img>
+   <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-256.png" alt="CSS" width="32" height="32"></img>
+   <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/graphql-256.png" alt="graphQL" width="32" height="32"></img>
+   <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/redux-256.png" alt="Redux" width="32" height="32"></img>
+   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/288_Sass_logo-256.png" alt="SASS" width="32" height="32"></img>
+   <img src="https://cdn3.iconfinder.com/data/icons/picons-social/57/50-html5-256.png" alt="HTML5" width="32" height="32"></img>
+   <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/github-256.png" alt="GIT" width="32" height="32"></img>
+   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-256.png" alt="JAVA" width="32" height="32"></img>
   </td>
  </tr>
 </table>
