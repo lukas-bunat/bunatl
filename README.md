@@ -49,10 +49,10 @@
 
 | Project name | Language | Tech<br>(stack) | Live<br>demo | Code base | Finished |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| **Currency converter** | *JavaScript* | ReactJS | [www][spa1a] | [/currency-converter][spa1b] | ✔ |
-| **Tweet bot wall** | *JavaScript* | MERN | [www][spa2a] | [/tweet-bot-wall][spa2b] | ✔ |
+| **Currency converter** | *JavaScript* | ReactJS | ❌ | [/currency-converter][spa1b] | ✔ |
+| **Tweet bot wall** | *JavaScript* | MERN | ❌ | [/tweet-bot-wall][spa2b] | ✔ |
 | **Web scrapenator** | *JavaScript* | EJS | ❌ | [/web-scrapenator][spa3b] | ✔ |
-| **User generarator** | *TypeScript* | ReactJS | [www][spa4a] | [/user-generator][spa4b] | ✔ |
+| **User generarator** | *TypeScript* | ReactJS | ❌ | [/user-generator][spa4b] | ✔ |
 | **STFU and click** | *TypeScript* | MERN | ❌ | [/stfu-and-click][spa5b] | ✔ |
 
 [spa1a]: https://currency-converter.techis.fun/
@@ -68,8 +68,8 @@
 
 | Project name | Language | Tech<br>(stack) | Live<br>demo | Code base | Finished |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| **Redux vs<br>useContent+useReducer** | *TypeScript* | ReactJS | [www][rb1a] | [/reactjs-data-and-state-managment][rb1b] | ✔ |
-| **GraphQL vs fetch** | *JavaScript* | ReactJS<br>GraphQL | [www][rb2a] | [/graphql-vs-fetch][rb2b] | ✔ |
+| **Redux vs<br>useContent+useReducer** | *TypeScript* | ReactJS | ❌ | [/reactjs-data-and-state-managment][rb1b] | ✔ |
+| **GraphQL vs fetch** | *JavaScript* | ReactJS<br>GraphQL | ❌ | [/graphql-vs-fetch][rb2b] | ✔ |
 
 [rb1a]: https://react-states.techis.fun/
 [rb1b]: https://github.com/bunatl/reactjs-data-and-state-managment/
