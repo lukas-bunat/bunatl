@@ -2,7 +2,7 @@
 <!-- ------------------------------------------------------------------------------------------ -->
 <table>
  <tr>
-    <td align="middle"><b>👨‍💻 Full-Stack & Software Developer and Data Engineer</b></td>
+    <td align="middle"><b>👨‍💻 Full-Stack Developer 🗄️ Big Data Engineer 💡 Business Consultant</b></td>
     <td rowspan="3" align="middle">
     <img src="./profilePicture.jpg" alt="avatar" width="200"/>
 </td>
@@ -11,7 +11,7 @@
     <td align="middle">💻 Coding your ideas into professional apps with ❤️!</td>
  </tr>
  <tr>
-    <td align="middle"><i>Get more info about me on <a href="https://bunat.cz">www.bunat.cz</a> 🌍</i></td>
+    <td align="middle"><i>ℹ Get more info about me on <a href="https://bunat.cz">www.bunat.cz</a> 🌍</i></td>
  </tr>
  <tr>
   <td colspan="2" align="middle">
