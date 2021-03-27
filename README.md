@@ -32,49 +32,23 @@
 
 ## ⚡ You should check out these:
 
-#### Personal projects
+| Project name | Tech stack | Live<br>demo | Finished | Code base |
+|:-:|:-:|:-:|:-:|:-:|
+| **Portalo** |*TypeScript*, *AWS* | [www][portalo_www] | ❌ | [/portalo][portalo_git]
+| **Company structure<br>graph generator** | MERN | ❌ | ❌ | [/company-structure<br>graph-generator][pp2b] |
+| **Grade Analyzer** | *Google Chrome Extentention* | ❌ | ✔ | [/grade-analyzer][vse_git] |
+| **Personal website** | ReactJS | [www][pp3a] | ✔ | [/public-website][pp3b] |
 
-| Project name | Language | Tech<br>(stack) | Live<br>demo | Code base | Finished |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| **Přehled platů** | *TypeScript* | MERN | ❌ | [/prehled-platu][pp1b] | ❌ |
-| **Company structure<br>graph generator** | *JavaScript* | MERN | ❌ | [/company-structure<br>graph-generator][pp2b] | ❌ |
-| **Personal website** | *JavaScript* | ReactJS | [www][pp3a] | [/public-website][pp3b] | ✔ |
+[portalo_www]: https://portalo.bunat.cz/
+[portalo_git]: https://github.com/bunatl/portalo/
 
-[pp1b]: https://github.com/bunatl/prehled-platu
+[vse_www]: https://github.com/bunatl/gradeGrapher
+[vse_git]: https://github.com/bunatl/gradeGrapher
+
 [pp2b]: https://github.com/bunatl/CompanyOwenershipGrapher
-[pp3a]: https://bunat.cz/
+
+[pp3a]: https://react.bunat.cz/
 [pp3b]: https://github.com/bunatl/public-website
-
-#### Single page applications (SPAs)
-
-| Project name | Language | Tech<br>(stack) | Live<br>demo | Code base | Finished |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| **Currency converter** | *JavaScript* | ReactJS | ❌ | [/currency-converter][spa1b] | ✔ |
-| **Tweet bot wall** | *JavaScript* | MERN | ❌ | [/tweet-bot-wall][spa2b] | ✔ |
-| **Web scrapenator** | *JavaScript* | EJS | ❌ | [/web-scrapenator][spa3b] | ✔ |
-| **User generarator** | *TypeScript* | ReactJS | ❌ | [/user-generator][spa4b] | ✔ |
-| **STFU and click** | *TypeScript* | MERN | ❌ | [/stfu-and-click][spa5b] | ✔ |
-
-[spa1a]: https://currency-converter.techis.fun/
-[spa1b]: https://github.com/bunatl/currency-converter/
-[spa2a]: https://tweet-bot.techis.fun/
-[spa2b]: https://github.com/bunatl/tweet-bot-wall
-[spa3b]: https://github.com/bunatl/web-scrapenator
-[spa4a]: https://user-generator.techis.fun/
-[spa4b]: https://github.com/bunatl/user-generator
-[spa5b]: https://github.com/bunatl/stfu-and-click
-
-#### ReactJS 101
-
-| Project name | Language | Tech<br>(stack) | Live<br>demo | Code base | Finished |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| **Redux vs<br>useContent+useReducer** | *TypeScript* | ReactJS | ❌ | [/reactjs-data-and-state-managment][rb1b] | ✔ |
-| **GraphQL vs fetch** | *JavaScript* | ReactJS<br>GraphQL | ❌ | [/graphql-vs-fetch][rb2b] | ✔ |
-
-[rb1a]: https://react-states.techis.fun/
-[rb1b]: https://github.com/bunatl/reactjs-data-and-state-managment/
-[rb2a]: https://fetch-vs-graphql.techis.fun/
-[rb2b]: https://github.com/bunatl/data-fetching-managment/
 
 
 ## 🕓 At the moment
@@ -84,10 +58,15 @@
 | Personal website content | Electron | Build own projects and content |
 
 ## 📊 Stats
-[![My github stats](https://github-readme-stats.vercel.app/api?username=bunatl&hide=prs&count_private=true&show_icons=true&theme=gruvbox "What are your stats? 👀")](https://github.com/bunatl)
-
-<p><img style="margin-top:1em; margin-bottom:2em;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunatl&layout=compact&langs_count=4" alt="bunatl" /></br></br></p>
-
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=bunatl&hide=prs&count_private=true&show_icons=true&theme=gruvbox" alt="What are your stats? 👀"></img>
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+<img style="margin-top:1em; margin-bottom:2em;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunatl&layout=compact&langs_count=4" alt="bunatl" />
+</p>
 
 
 ## 🤗 Have a good one! 🤙
