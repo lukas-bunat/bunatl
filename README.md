@@ -39,6 +39,8 @@
 | **Grade Analyzer** | *Google Chrome Extentention* | ❌ | ✔ | [/grade-analyzer][vse_git] |
 | **Personal website** | ReactJS | [www][pp3a] | ✔ | [/public-website][pp3b] |
 
+⚠ More detailed table with some of my other projects is available <a href="https://github.com/bunatl/bunatl/blob/master/react101.md" target="_blank">here</a>.
+
 [portalo_www]: https://portalo.bunat.cz/
 [portalo_git]: https://github.com/bunatl/portalo/
 
@@ -50,22 +52,23 @@
 [pp3a]: https://react.bunat.cz/
 [pp3b]: https://github.com/bunatl/public-website
 
-
+<!--
 ## 🕓 At the moment
 |🔧 **Working on**|🌱 **Learning**|📝 **To do list**|
 |:----------------:|:-------------:|:----------------:|
 | Refactoring projects | React Native | Contribute more on <br> Github and StackOweflow |
 | Personal website content | Electron | Build own projects and content |
+-->
 
-## 📊 Stats
+## 📊 Profile statistics
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=bunatl&hide=prs&count_private=true&show_icons=true&theme=gruvbox" alt="What are your stats? 👀"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=bunatl&hide=prs&hide_rank=true&count_private=true&show_icons=true&theme=dark" alt="What are your stats? 👀"></img>
 &nbsp; 
 &nbsp; 
 &nbsp; 
 &nbsp; 
 &nbsp; 
-<img style="margin-top:1em; margin-bottom:2em;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunatl&layout=compact&langs_count=4" alt="bunatl" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunatl&layout=compact&theme=dark&langs_count=4" alt="bunatl" />
 </p>
 
 
