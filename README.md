@@ -34,7 +34,7 @@
 
 | Project name | Tech stack | Live<br>demo | Finished | Code base |
 |:-:|:-:|:-:|:-:|:-:|
-| **Portalo** |*TypeScript*, *AWS* | [www][portalo_www] | ❌ | [/portalo][portalo_git]
+| **Portalo** |*TypeScript*, *AWS* | [www][portalo_www] | ✔ | [/portalo][portalo_git]
 | **Company structure<br>graph generator** | MERN | ❌ | ❌ | [/company-structure<br>graph-generator][pp2b] |
 | **Grade Analyzer** | *Google Chrome Extentention* | ❌ | ✔ | [/grade-analyzer][vse_git] |
 | **Personal website** | ReactJS | [www][pp3a] | ✔ | [/public-website][pp3b] |
