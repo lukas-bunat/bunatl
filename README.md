@@ -15,19 +15,20 @@
  </tr>
  <tr>
   <td colspan="2" align="middle">
-   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="Javascript" />
-   <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="Typescript" />
-   <img src="https://img.icons8.com/plasticine/48/000000/react.png" alt="ReactJS" />
-   <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" />
-   <img src="https://img.icons8.com/color/48/000000/graphql.png" alt="GraphQL" />
-   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJS" />
-   <img src="https://img.icons8.com/color/48/000000/npm.png" alt="Npm" />
-   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
-   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" />
-   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" />
-   <img src="https://img.icons8.com/color/48/000000/sass.png" alt="SASS" />
-   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python3" />
-   <img src="https://img.icons8.com/color/48/000000/nginx.png" atl="Nginx" />
+   <img src="https://img.icons8.com/color/40/000000/javascript.png" alt="Javascript" />
+   <img src="https://img.icons8.com/color/40/000000/typescript.png" alt="Typescript" />
+   <img src="https://img.icons8.com/plasticine/40/000000/react.png" alt="ReactJS" />
+   <img src="https://img.icons8.com/color/40/000000/redux.png" alt="Redux" />
+   <img src="https://img.icons8.com/color/40/000000/graphql.png" alt="GraphQL" />
+   <img src="https://img.icons8.com/color/40/000000/nodejs.png" alt="NodeJS" />
+   <img src="https://img.icons8.com/color/40/000000/npm.png" alt="Npm" />
+   <img src="https://img.icons8.com/color/40/000000/mongodb.png" alt="MongoDB" />
+   <img src="https://img.icons8.com/color/40/000000/html-5--v1.png" alt="HTML5" />
+   <img src="https://img.icons8.com/color/40/000000/css3.png" alt="CSS" />
+   <img src="https://img.icons8.com/color/40/000000/sass.png" alt="SASS" />
+   <img src="https://img.icons8.com/color/40/000000/python.png" alt="Python3" />
+   <img src="https://img.icons8.com/color/40/000000/nginx.png" atl="Nginx" />
+   <img src="https://img.icons8.com/color/40/000000/amazon-web-services.png" atl="aws"/>
   </td>
  </tr>
 </table>
