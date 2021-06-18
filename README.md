@@ -15,17 +15,19 @@
  </tr>
  <tr>
   <td colspan="2" align="middle">
-   <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png" alt="javascript" width="32" height="32"></img>
-   <img src="https://raw.githubusercontent.com/Workshape/tech-icons/72fd0e4dc0320a84dc489d9dd8f63338926098e0/icons/typescript.svg" alt="typescript" width="32" height="32"></img>
-   <img src="https://raw.githubusercontent.com/Workshape/tech-icons/72fd0e4dc0320a84dc489d9dd8f63338926098e0/icons/react.svg" alt="ReactJS" width="32" height="32"></img>
-   <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/redux-256.png" alt="Redux" width="32" height="32"></img>
-   <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/graphql-256.png" alt="graphQL" width="32" height="32"></img>
-   <img src="https://raw.githubusercontent.com/Workshape/tech-icons/72fd0e4dc0320a84dc489d9dd8f63338926098e0/icons/nodejs.svg" alt="nodeJS" width="32" height="32"></img>
-   <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/npm-256.png" alt="npm" width="32" height="32"></img>
-   <img src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-256.png" alt="MongoDB" width="96" height="32"></img>
-   <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-256.png" alt="CSS" width="32" height="32"></img>
-   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/288_Sass_logo-256.png" alt="SASS" width="32" height="32"></img>
-   <img src="https://cdn3.iconfinder.com/data/icons/picons-social/57/50-html5-256.png" alt="HTML5" width="32" height="32"></img>
+   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="Javascript" />
+   <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="Typescript" />
+   <img src="https://img.icons8.com/plasticine/48/000000/react.png" alt="ReactJS" />
+   <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" />
+   <img src="https://img.icons8.com/color/48/000000/graphql.png" alt="GraphQL" />
+   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJS" />
+   <img src="https://img.icons8.com/color/48/000000/npm.png" alt="Npm" />
+   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
+   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" />
+   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" />
+   <img src="https://img.icons8.com/color/48/000000/sass.png" alt="SASS" />
+   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python3" />
+   <img src="https://img.icons8.com/color/48/000000/nginx.png" atl="Nginx" />
   </td>
  </tr>
 </table>
