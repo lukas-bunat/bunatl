@@ -1,37 +1,33 @@
-# 👋  Welcome on Lukas Bunat GitHub Repo 👇
+# Lukas Bunat 
 <!-- ------------------------------------------------------------------------------------------ -->
 <table>
  <tr>
-    <td align="middle"><b>👨‍💻 Full-Stack Developer 🗄️ Big Data Engineer 💡 Business Consultant</b></td>
+    <td align="middle">
+     <b>👨‍💻 FE Team Lead & Senior Full-Stack Developer</b><br />
+     <i>💾 Data Science Researcher 💡 Business Consultant</i>
+    </td>
     <td rowspan="3" align="middle">
     <img src="./profilePicture.jpg" alt="avatar" width="200"/>
 </td>
  </tr>
  <tr>
-    <td align="middle">💻 Coding your ideas into professional apps with ❤️!</td>
+  <td align="middle"><i>Get more info about me on <a href="https://bunat.cz">www.bunat.cz</a></i></td>  
  </tr>
  <tr>
-    <td align="middle"><i>ℹ Get more info about me on <a href="https://bunat.cz">www.bunat.cz</a> 🌍</i></td>
- </tr>
- <tr>
-  <td colspan="2" align="middle">
-   <img src="https://img.icons8.com/color/40/000000/javascript.png" alt="Javascript" />
-   <img src="https://img.icons8.com/color/40/000000/typescript.png" alt="Typescript" />
-   <img src="https://img.icons8.com/plasticine/40/000000/react.png" alt="ReactJS" />
-   <img src="https://img.icons8.com/color/40/000000/redux.png" alt="Redux" />
-   <img src="https://img.icons8.com/color/40/000000/graphql.png" alt="GraphQL" />
-   <img src="https://img.icons8.com/color/40/000000/nodejs.png" alt="NodeJS" />
-   <img src="https://img.icons8.com/color/40/000000/npm.png" alt="Npm" />
-   <img src="https://img.icons8.com/color/40/000000/mongodb.png" alt="MongoDB" />
-   <img src="https://img.icons8.com/color/40/000000/html-5--v1.png" alt="HTML5" />
-   <img src="https://img.icons8.com/color/40/000000/css3.png" alt="CSS" />
-   <img src="https://img.icons8.com/color/40/000000/sass.png" alt="SASS" />
-   <img src="https://img.icons8.com/color/40/000000/python.png" alt="Python3" />
-   <img src="https://img.icons8.com/color/40/000000/nginx.png" atl="Nginx" />
-   <img src="https://img.icons8.com/color/40/000000/amazon-web-services.png" atl="aws"/>
-  </td>
+    <td align="middle"><b><i>Let's chnage the world with code that millions of people use</i></b></td>
  </tr>
 </table>
+
+## ⚡ Tech stack:
+|Tech stack|kk|
+|:-:|:-:|
+|𝙁𝙧𝙤𝙣𝙩-𝙚𝙣𝙙|<img src="https://img.icons8.com/plasticine/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/50/000000/npm.png"/> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> <img src="https://img.icons8.com/color/48/000000/webpack.png"/> <img src="https://img.icons8.com/color/48/000000/redux.png"/> <img src="https://img.icons8.com/color/48/000000/material-ui.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/>|
+|𝑩𝒂𝒄𝒌-𝒆𝒏𝒅|<img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-apache-a-free-and-open-source-cross-platform-web-server-software-logo-shadow-tal-revivo.png"/> <img src="https://img.icons8.com/color/50/000000/tomcat.png"/> <img src="https://img.icons8.com/color/48/000000/nginx.png"/> |
+|𝑪𝒍𝒐𝒖𝒅|<img src="https://img.icons8.com/color/50/000000/amazon-web-services.png"/> <img src="https://img.icons8.com/color/50/000000/firebase.png"/> <img src="https://img.icons8.com/ios-filled/50/000000/sort-up.png"/> <img src="https://img.icons8.com/color/48/000000/circleci.png"/>|
+|𝑫𝒂𝒕𝒂𝒃𝒂𝒔𝒆|<img src="https://img.icons8.com/color/48/000000/graphql.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>|
+|𝑫𝒂𝒕𝒂 𝒔𝒄𝒊𝒆𝒏𝒄𝒆|<img src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img src="https://img.icons8.com/color/48/000000/hadoop-distributed-file-system.png"/> <img src="https://img.icons8.com/color/48/000000/hornet-hive.png"/> <img src="https://img.icons8.com/fluency/48/000000/jupyter.png"/>|
+|𝘾𝙤𝙡𝙡𝙖𝙗𝙤𝙧𝙖𝙩𝙞𝙤𝙣|<img src="https://img.icons8.com/color/50/000000/git.png"/> <img src="https://img.icons8.com/material-outlined/48/000000/github.png"/> <img src="https://img.icons8.com/color/48/000000/jira.png"/> <img src="https://img.icons8.com/color/48/000000/trello.png"/> <img src="https://img.icons8.com/color/48/000000/slack-new.png"/> <img src="https://img.icons8.com/color/48/000000/microsoft-teams.png"/> <img src="https://img.icons8.com/color/48/000000/office-365.png"/>|
+
 
 ## ⚡ You should check out these:
 
@@ -72,7 +68,7 @@
 </p>
 
 
-## 🤗 Have a good one! 🤙
+## 🤙 Have a good one!
 ![Keep calm and code gif 🔥](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif "Keep calm and code 🔥")
 
 <!-- ✔️,🔘 -->
