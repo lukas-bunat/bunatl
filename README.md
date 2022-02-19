@@ -14,23 +14,19 @@
   <td align="middle"><i>Get more info about me on <a href="https://bunat.cz">www.bunat.cz</a></i></td>  
  </tr>
  <tr>
-    <td align="middle"><b><i>Let's chnage the world with code that millions of people use</i></b></td>
+    <td align="middle"><b><i>Let's change the world with code that millions of people use</i></b></td>
  </tr>
 </table>
 
-## ⚡ Tech stack:
-|Tech stack|kk|
-|:-:|:-:|
-|𝙁𝙧𝙤𝙣𝙩-𝙚𝙣𝙙|<img src="https://img.icons8.com/plasticine/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/50/000000/npm.png"/> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> <img src="https://img.icons8.com/color/48/000000/webpack.png"/> <img src="https://img.icons8.com/color/48/000000/redux.png"/> <img src="https://img.icons8.com/color/48/000000/material-ui.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/>|
-|𝑩𝒂𝒄𝒌-𝒆𝒏𝒅|<img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-apache-a-free-and-open-source-cross-platform-web-server-software-logo-shadow-tal-revivo.png"/> <img src="https://img.icons8.com/color/50/000000/tomcat.png"/> <img src="https://img.icons8.com/color/48/000000/nginx.png"/> |
-|𝑪𝒍𝒐𝒖𝒅|<img src="https://img.icons8.com/color/50/000000/amazon-web-services.png"/> <img src="https://img.icons8.com/color/50/000000/firebase.png"/> <img src="https://img.icons8.com/ios-filled/50/000000/sort-up.png"/> <img src="https://img.icons8.com/color/48/000000/circleci.png"/>|
-|𝑫𝒂𝒕𝒂𝒃𝒂𝒔𝒆|<img src="https://img.icons8.com/color/48/000000/graphql.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>|
-|𝑫𝒂𝒕𝒂 𝒔𝒄𝒊𝒆𝒏𝒄𝒆|<img src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img src="https://img.icons8.com/color/48/000000/hadoop-distributed-file-system.png"/> <img src="https://img.icons8.com/color/48/000000/hornet-hive.png"/> <img src="https://img.icons8.com/fluency/48/000000/jupyter.png"/>|
-|𝘾𝙤𝙡𝙡𝙖𝙗𝙤𝙧𝙖𝙩𝙞𝙤𝙣|<img src="https://img.icons8.com/color/50/000000/git.png"/> <img src="https://img.icons8.com/material-outlined/48/000000/github.png"/> <img src="https://img.icons8.com/color/48/000000/jira.png"/> <img src="https://img.icons8.com/color/48/000000/trello.png"/> <img src="https://img.icons8.com/color/48/000000/slack-new.png"/> <img src="https://img.icons8.com/color/48/000000/microsoft-teams.png"/> <img src="https://img.icons8.com/color/48/000000/office-365.png"/>|
+## 🖥 Tech stack:
+|Group|Technologies|Group|Technologies|
+|:-:|:-:|:-:|:-:|
+|𝙁𝙧𝙤𝙣𝙩-𝙚𝙣𝙙|<img src="https://img.icons8.com/color/32/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/32/000000/typescript.png"/> <img src="https://img.icons8.com/plasticine/32/000000/react.png"/> <img src="https://img.icons8.com/color/32/000000/redux.png"/> <img src="https://img.icons8.com/color/32/000000/material-ui.png"/> |𝑪𝒍𝒐𝒖𝒅|<img src="https://img.icons8.com/color/32/000000/amazon-web-services.png"/> <img src="https://img.icons8.com/color/32/000000/firebase.png"/> <img src="https://img.icons8.com/ios-filled/32/000000/sort-up.png"/> <img src="https://img.icons8.com/color/32/000000/circleci.png"/>|
+|𝑩𝒂𝒄𝒌-𝒆𝒏𝒅|<img src="https://img.icons8.com/color/32/000000/nodejs.png"/> <img src="https://img.icons8.com/color/32/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/32/000000/external-apache-a-free-and-open-source-cross-platform-web-server-software-logo-shadow-tal-revivo.png"/> <img src="https://img.icons8.com/color/32/000000/tomcat.png"/> <img src="https://img.icons8.com/color/32/000000/nginx.png"/> |𝑫𝒂𝒕𝒂𝒃𝒂𝒔𝒆|<img src="https://img.icons8.com/color/32/000000/graphql.png"/> <img src="https://img.icons8.com/color/32/000000/mongodb.png"/> <img src="https://img.icons8.com/fluency/32/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/32/000000/microsoft-sql-server.png"/>|
+|𝑫𝒂𝒕𝒂 𝒔𝒄𝒊𝒆𝒏𝒄𝒆|<img src="https://img.icons8.com/color/32/000000/python--v1.png"/> <img src="https://img.icons8.com/color/32/000000/hadoop-distributed-file-system.png"/> <img src="https://img.icons8.com/color/32/000000/hornet-hive.png"/> <img src="https://img.icons8.com/fluency/32/000000/jupyter.png"/>|𝘾𝙤𝙡𝙡𝙖𝙗𝙤𝙧𝙖𝙩𝙞𝙤𝙣|<img src="https://img.icons8.com/color/32/000000/git.png"/> <img src="https://img.icons8.com/material-outlined/32/000000/github.png"/> <img src="https://img.icons8.com/color/32/000000/jira.png"/> <img src="https://img.icons8.com/color/32/000000/slack-new.png"/> 
 
 
-## ⚡ You should check out these:
-
+## ⚡ Showcase
 | Project name | Tech stack | Live<br>demo | Finished | Code base |
 |:-:|:-:|:-:|:-:|:-:|
 | **Portalo** |*TypeScript*, *AWS* | [www][portalo_www] | ✔ | [/portalo][portalo_git]
