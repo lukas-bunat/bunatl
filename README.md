@@ -38,11 +38,8 @@
 | Project name | Tech stack | Live<br>demo | Finished | Code base |
 |:-:|:-:|:-:|:-:|:-:|
 | **Portalo** |*TypeScript*, *AWS* | [www][portalo_www] | ✔ | [/portalo][portalo_git]
-| **Company structure<br>graph generator** | MERN | ❌ | ❌ | [/company-structure<br>graph-generator][pp2b] |
 | **Grade Analyzer** | *Google Chrome Extentention* | ❌ | ✔ | [/grade-analyzer][vse_git] |
 | **Personal website** | ReactJS | [www][pp3a] | ✔ | [/public-website][pp3b] |
-
-⚠ More detailed table with some of my other projects is available <a href="https://github.com/bunatl/bunatl/blob/master/react101.md" target="_blank">here</a>.
 
 [portalo_www]: https://portalo.bunat.cz/
 [portalo_git]: https://github.com/bunatl/portalo/
